@@ -85,7 +85,7 @@ let newproducts = [
   {
     id: 101,
     images: ["./Assets/Design-04,01.jpg", "./Assets/Design-04,02.jpg"],
-    heading: "Casual Cotton T-Shirt",
+    heading: "Casual T-Shirt",
     description: "Clean design with soft cotton fabric",
     sizes: ["L", "XL", "XXL"],
     price: 499,
