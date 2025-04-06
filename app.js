@@ -25,7 +25,7 @@ let products = [
   },
   {
     images: ["./Assets/California,edited-01.jpg", "./Assets/California,edited-01,02.jpg"],
-    heading: "Calidornia Tee",
+    heading: "California Tee",
     description: "Bold print for anime lovers",
     sizes: ["L", "XL", "XXL"],
     price: 599,
@@ -94,7 +94,7 @@ let newproducts = [
   {
     id: 101,
     images: ["./Assets/California,edited-01.jpg", "./Assets/California,edited-01,02.jpg"],
-    heading: "Calidornia Tee",
+    heading: "California Tee",
     description: "Clean design with soft cotton fabric",
     sizes: ["L", "XL", "XXL"],
     price: 499,
