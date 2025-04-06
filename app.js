@@ -103,7 +103,7 @@ let newproducts = [
   {
     id: 103,
     images: ["./Assets/Artboard 1.jpg", "./Assets/Artboard 2.jpg"],
-    heading: "Riverdale green T-Shirt",
+    heading: "Riverdale T-Shirt",
     description: "Sleek and premium look for all-day wear",
     sizes: ["L", "XL", "XXL"],
     price: 799,
