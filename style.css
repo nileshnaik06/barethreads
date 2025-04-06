@@ -743,12 +743,13 @@ body {
     }
 
     #newcards {
+        padding: 0 5vw;
         margin-top: 5%;
         width: 100%;
         display: flex;
         align-items: center;
         justify-content: space-evenly;
-        gap: 1.5rem;
+        gap: 3rem;
         flex-wrap: nowrap;
         /* overflow: scroll; */
         /* or auto if you want to show only when needed */
@@ -808,7 +809,7 @@ body {
     }
 
     .nname h3 {
-        font-size: var(--menu);
+        font-size: 2vw;
         font-family: hel;
         font-weight: 400;
         text-align: start;
@@ -897,7 +898,6 @@ body {
 
     #collection {
         width: 100%;
-        padding: 0 1.5rem;
         min-height: 100vh;
         display: flex;
         align-items: center;
@@ -924,9 +924,9 @@ body {
         width: 100%;
         display: flex;
         align-items: center;
-        justify-content: flex-start;
+        justify-content: center;
         flex-wrap: wrap;
-        gap: 1.8rem;
+        gap: 4rem;
     }
 
     .card {
